@@ -1,0 +1,6 @@
+@MinimalApiTest_HostAddress = http://localhost:5151
+
+GET https://localhost:7115/customer/getCustomers
+Accept: application/json
+
+###
